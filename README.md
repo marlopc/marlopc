@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Panaro</h1>
 <h3 align="center">A 21 years old Full Stack Web Developer from Argentina, always want to improve myself, and learn new technologies and good practices, in order to make the best experience for the users.</h3>
 
-- 👨‍💻 I’m currently working on ["On The Rocks" E-commerce](https://on-the-rocks.vercel.app/)
+- 👨‍💻 I’m currently working on ["On The Rocks" E-commerce](https://on-the-rocks-orcin.vercel.app/)
 
 - 📫 How to reach me **lucaspanaro1@gmail.com**
 
