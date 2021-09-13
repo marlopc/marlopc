@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Lucas Panaro</h1>
 <h3 align="center">A 21 years old Full Stack Web Developer from Argentina, always want to improve myself, and learn new technologies and good practices, in order to make the best experience for the users.</h3>
 
-- 👨‍💻 I’m currently working on ["On The Rocks" E-commerce](https://on-the-rocks-orcin.vercel.app/)
-
 - 📫 How to reach me **lucaspanaro1@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -16,4 +14,7 @@
 <h3 align="left">My projects:</h3>
 <p align="left">
 <a href="https://dogs-webapp.netlify.app/" target="_blank"><h4>Dogs App</h4></a>
+</p>
+<p align="left">
+<a href="https://on-the-rocks-orcin.vercel.app/" target="_blank"><h4>On the Rocks</h4></a>
 </p>
