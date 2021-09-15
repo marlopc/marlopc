@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Lucas Panaro</h1>
-<h3 align="center">A 21 years old Full Stack Web Developer from Argentina, always want to improve myself, and learn new technologies and good practices, in order to make the best experience for the users and coworkers.</h3>
+<h3 align="center">A 21 years old Full Stack Web Developer from Argentina, always want to improve myself, and learn new technologies and best practices, in order to make the best experience for the users and coworkers.</h3>
 
 - 🌱 I’m currently learning **Quality assurance**
 
