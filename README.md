@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Lucas Panaro</h1>
 <h3 align="center">A 22 years old Full Stack Web Developer from Argentina, always want to improve myself, and learn new technologies and best practices, in order to make the best experience for the users and coworkers.</h3>
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **lucaspanaro1@gmail.com**
 
